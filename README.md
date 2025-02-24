@@ -1,4 +1,4 @@
-# Algorithms and Complexities 🚀
+# Algorithms and Complexities 
 
 Welcome to my **Algorithms and Complexities** repository! This is my personal space to document and share my journey of learning algorithms during my **2nd year, 2nd semester** as a **Bachelor of Science in Computer Science** student. Here, you'll find various algorithm implementations in C, along with explanations and insights gained from practice, professors, YouTube, and other valuable resources.
 
@@ -11,7 +11,7 @@ This repository serves as:
 ## 📚 What You'll Find Here
 The repository is organized by algorithm types and their corresponding C implementations. Some of the key algorithms include:
 
-### 🟢 **Sorting Algorithms:**
+### **Sorting Algorithms:**
 - 📌 **Bubble Sort:** The simplest sorting algorithm that repeatedly swaps adjacent elements if they are in the wrong order.
 - 📌 **Selection Sort:** Finds the minimum element from the unsorted part and places it at the beginning.
 - 📌 **Insertion Sort:** Builds the sorted array one element at a time by inserting the element into its correct position.
@@ -19,14 +19,14 @@ The repository is organized by algorithm types and their corresponding C impleme
 - 📌 **Merge Sort:** A divide-and-conquer algorithm that splits the array into halves, sorts them, and merges the sorted halves.
 - 📌 **Quick Sort:** Another divide-and-conquer algorithm that selects a pivot and partitions the array into smaller and larger elements.
 
-### 🔵 **Searching Algorithms:**
+###  **Searching Algorithms:**
 - 🔍 **Linear Search:** Checks every element until the target value is found.
 - 🔍 **Binary Search:** Efficient search by repeatedly dividing the sorted array in half.
 
-### ⚙️ **Other Concepts:**
-- 🧠 **Recursion:** Implementing algorithms using recursive functions.
-- 📊 **Dynamic Programming:** Breaking down problems into simpler subproblems.
-- 🔗 **Linked Lists, Stacks, and Queues:** Exploring data structures essential for problem-solving.
+### ⚙ **Other Concepts:**
+-  **Recursion:** Implementing algorithms using recursive functions.
+-  **Dynamic Programming:** Breaking down problems into simpler subproblems.
+-  **Linked Lists, Stacks, and Queues:** Exploring data structures essential for problem-solving.
 
 ## 📝 Learning Resources
 I'm learning these algorithms through a combination of resources, including:
@@ -36,7 +36,7 @@ I'm learning these algorithms through a combination of resources, including:
 4. **Books & Articles** – "Introduction to Algorithms" by Cormen (CLRS).
 5. **Peer Discussions** – Learning from friends and study groups.
 
-## 🚧 Work in Progress
+##  Work in Progress
 This repository will continue to grow as I explore more algorithms, optimize code, and deepen my understanding. I'll also add explanations and time complexities for each algorithm.
 
 ## 🤝 Contributions
@@ -47,5 +47,5 @@ While this repository primarily reflects my personal journey, contributions, sug
 
 ---
 
-Thank you for visiting my repository! 🌟 If you find this helpful or want to join the journey, feel free to star 🌟 the repo and explore the code. Let's keep learning and coding! 💪💻
+Thank you for visiting my repository!  If you find this helpful or want to join the journey, feel free to star  the repo and explore the code. Let's keep learning and coding!
 
