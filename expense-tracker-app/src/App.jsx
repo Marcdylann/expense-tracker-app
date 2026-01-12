@@ -1,4 +1,5 @@
 import ExpenseForm from "./components/ExpenseForm"
+import ExpenseList from "./components/ExpenseList"
 
 export default function App(){
     return (
@@ -6,6 +7,7 @@ export default function App(){
                 <h1 style = {{margin:0}}>Expense tracker</h1>
                 <p style = {{margintop:8, fontSize: 18 }}> Total: ₱0</p>
                 <ExpenseForm/>
+                <ExpenseList/>
             </div>
     )
 }
