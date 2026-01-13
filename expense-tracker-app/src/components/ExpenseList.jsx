@@ -1,17 +1,14 @@
 import ExpenseItem from "./ExpenseItem"
 
-export default function ExpenseList(){
-    return (
-        <section>
-            <h2>Expenses</h2>
+export default function ExpenseList() {
+  return (
+    <section style={{ marginTop: 24 }}>
+      <h2>Expenses</h2>
 
+      <p>No expenses yet.</p>
 
-             {/* Empty state message */}
-             <p>No expenses yet</p>
-
-            {/* List of ExpenseItem components */}
-            <ExpenseItem/>
-            
-        </section>
-    )
+      <ExpenseItem />
+      <ExpenseItem />
+    </section>
+  )
 }
